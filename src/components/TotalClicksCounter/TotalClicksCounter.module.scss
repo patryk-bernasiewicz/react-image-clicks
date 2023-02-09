@@ -1,0 +1,10 @@
+@import "../../styles/partials/variables";
+
+.counter {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  font-size: 1.5rem;
+  padding: 8px;
+  background: rgba($color-background, 0.5);
+}
